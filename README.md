@@ -11,3 +11,5 @@ This is an ecommerce web site based on Zander's E-commerce project v2
 - Pytest and pytest-django
 - pytest factory boy
 - pytest selenium
+
+This line is here just to add a modification in the file and practice the proposal of changes to the original repo.
